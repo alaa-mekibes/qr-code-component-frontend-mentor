@@ -1,0 +1,56 @@
+/* Start variables */
+:root{
+    /* Colors */
+
+--White: hsl(0, 0%, 100%);
+--Slate-300: hsl(212, 45%, 89%);
+--Slate-500: hsl(216, 15%, 48%);
+--Slate-900: hsl(218, 44%, 22%);
+
+    /* Typography */
+
+        /* Body Copy */
+
+--ParagraphSize: 15px;
+}
+/* End variables */
+/* Start Global rules */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+}
+body {
+    font-family: "Outfit", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: var(--Slate-300)
+}
+/* End Global rules */
+main {
+    background-color: var(--White);
+    padding: 20px;
+    flex-basis: 300px;
+    border-radius: 20px
+}
+main img {
+    max-width: 100%;
+    border-radius: 10px
+}
+main .text {
+    text-align: center
+}
+main .text h1 {
+    color: var(--Slate-900);
+    font-size: 20px;
+    font-weight: 700;
+    margin: 20px auto
+}
+main .text p {
+    color: var(--Slate-500);
+    font-size: var(--ParagraphSize);
+    font-weight: 400;
+    margin-bottom: 20px
+}
