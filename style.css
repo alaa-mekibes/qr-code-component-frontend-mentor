@@ -11,7 +11,7 @@
 
         /* Body Copy */
 
---ParagraphSize: 15px;
+--ParagraphSize: 15px
 }
 /* End variables */
 /* Start Global rules */
@@ -33,7 +33,8 @@ main {
     background-color: var(--White);
     padding: 20px;
     flex-basis: 300px;
-    border-radius: 20px
+    border-radius: 20px;
+    box-shadow: 0px 5px 5px 0px #ccd8e6c6
 }
 main img {
     max-width: 100%;
