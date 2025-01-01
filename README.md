@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://alaa-mekibes.github.io/qr-code-component-challenge6
+- Live Site URL: https://alaa-mekibes.github.io/qr-code-component-frontend-mentor
 
 ## My process
 
