@@ -26,6 +26,8 @@ Users should be able to:
 
 ### Links
 
+- Solution link: https://www.frontendmentor.io/solutions/qr-code-component-Lma2ugvVpU
+  
 - Live Site URL: https://alaa-mekibes.github.io/qr-code-component-frontend-mentor
 
 ## My process
