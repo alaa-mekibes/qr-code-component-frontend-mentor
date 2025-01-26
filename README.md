@@ -96,6 +96,8 @@ In future projects, I’d like to focus on:
 
 - Animations: Adding more dynamic and engaging animations.
 
+---
+
 ## ✍️ Author
 
 - Frontend Mentor Profile: [@alaa-mekibes](https://www.frontendmentor.io/profile/alaa-mekibes)
